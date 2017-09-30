@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/common/rcsp/light_control
+END
+light_fade.o
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/common/rcsp/light_control/light_fade.o
+END
+light_pwm.o
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/common/rcsp/light_control/light_pwm.o
+END
+light_main.o
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/common/rcsp/light_control/light_main.o
+END

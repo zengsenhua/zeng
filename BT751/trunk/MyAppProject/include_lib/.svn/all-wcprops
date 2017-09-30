@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib
+END
+fat_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/fat_lib.a
+END
+uicon_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/uicon_lib.a
+END
+echo_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/echo_lib.a
+END
+mem_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/mem_lib.a
+END
+cbuf_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/cbuf_lib.a
+END
+periphy_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/periphy_lib.a
+END
+cpu_lib_ac690x.a
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/cpu_lib_ac690x.a
+END
+vm_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/vm_lib.a
+END
+dev_manage_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/dev_manage_lib.a
+END
+rtos_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/rtos_lib.a
+END
+dac_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/dac_lib.a
+END
+common_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/common_lib.a
+END
+aec_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/aec_lib.a
+END
+rtc_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/rtc_lib.a
+END
+tags
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/tags
+END
+usb_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/usb_lib.a
+END
+filenametags
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/filenametags
+END
+dec_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/dec_lib.a
+END
+encode_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/encode_lib.a
+END
+asm_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/asm_type.h
+END
+sdmmc_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/sdmmc_lib.a
+END
+zebra_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/zebra_lib.a
+END
+bluetooth_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/bluetooth_lib.a
+END
+sydf_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/sydf_lib.a
+END
+font_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font_lib.a
+END
+rcsp_lib.a
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/rcsp_lib.a
+END

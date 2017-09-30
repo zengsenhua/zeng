@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/bluetooth/btstack
+END
+bt_key_deal.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/bluetooth/btstack/bt_key_deal.c
+END
+bt_ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/bluetooth/btstack/bt_ui.c
+END
+bt_key_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/bluetooth/btstack/bt_key_msg.c
+END
+le_client_demo1.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/bluetooth/btstack/le_client_demo1.c
+END
+le_finger_spinner.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/bluetooth/btstack/le_finger_spinner.c
+END
+fcc_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/bluetooth/btstack/fcc_test.c
+END
+letv.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/bluetooth/btstack/letv.c
+END
+bt_configs_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/bluetooth/btstack/bt_configs_user.c
+END
+le_server_demo1.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/bluetooth/btstack/le_server_demo1.c
+END
+le_server_module.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/bluetooth/btstack/le_server_module.c
+END

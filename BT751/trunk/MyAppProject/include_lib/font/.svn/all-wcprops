@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font
+END
+font_GBK.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font/font_GBK.h
+END
+font_utf16toansi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font/font_utf16toansi.h
+END
+font_OtherLanguage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font/font_OtherLanguage.h
+END
+font_BIG5.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font/font_BIG5.h
+END
+font_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font/font_lib.h
+END
+font_out.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font/font_out.h
+END
+font_SJIS.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font/font_SJIS.h
+END
+font_all.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font/font_all.h
+END
+font_area_ctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font/font_area_ctl.h
+END
+font_KSC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/font/font_KSC.h
+END

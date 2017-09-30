@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/record
+END
+rec_ui.o
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/record/rec_ui.o
+END
+record.o
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/record/record.o
+END
+rec_key.o
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/record/rec_key.o
+END

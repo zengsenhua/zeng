@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/fm
+END
+fm_prompt.o
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/fm/fm_prompt.o
+END
+fm_common.o
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/fm/fm_common.o
+END
+fm_key.o
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/fm/fm_key.o
+END
+fm_api.o
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/fm/fm_api.o
+END
+fm_ui.o
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/fm/fm_ui.o
+END
+fm_radio.o
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/fm/fm_radio.o
+END

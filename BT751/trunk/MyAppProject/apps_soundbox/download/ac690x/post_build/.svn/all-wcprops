@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build
+END
+download.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/download.sh
+END
+sdram.app
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/sdram.app
+END
+isd_download.exe
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/isd_download.exe
+END
+fast_run.bin
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/fast_run.bin
+END
+uboot.boot
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/uboot.boot
+END
+bfumake.exe
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/bfumake.exe
+END
+bt_cfg.bin
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/bt_cfg.bin
+END
+map.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/map.txt
+END
+isd_tools.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/isd_tools.cfg
+END
+ac690x.or32
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/ac690x.or32
+END
+uboot.bin
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/uboot.bin
+END
+download_cbp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/download_cbp.bat
+END
+jl_690x.bin
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/jl_690x.bin
+END
+ver.bin
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/ver.bin
+END
+jl_690x.bfu
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/jl_690x.bfu
+END
+br17loader.bin
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/br17loader.bin
+END
+download.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/download.bat
+END
+ram.ld
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/download/ac690x/post_build/ram.ld
+END

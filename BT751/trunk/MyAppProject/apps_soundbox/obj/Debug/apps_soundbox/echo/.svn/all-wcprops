@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/echo
+END
+echo_key.o
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/echo/echo_key.o
+END
+echo_api.o
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/echo/echo_api.o
+END
+echo_ui.o
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/echo/echo_ui.o
+END
+echo.o
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/echo/echo.o
+END
+echo_prompt.o
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/obj/Debug/apps_soundbox/echo/echo_prompt.o
+END

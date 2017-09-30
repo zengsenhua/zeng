@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/include/cpu/ac690x
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/include/cpu/ac690x/clock.h
+END
+update.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/include/cpu/ac690x/update.h
+END
+sys_detect.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/include/cpu/ac690x/sys_detect.h
+END

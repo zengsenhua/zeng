@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/common/rcsp
+END
+rcsp_cbk_msg_deal.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/common/rcsp/rcsp_cbk_msg_deal.c
+END
+rcsp_task_msg_deal.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/common/rcsp/rcsp_task_msg_deal.c
+END
+light_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/common/rcsp/light_task.c
+END
+rcsp_event_deal.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/common/rcsp/rcsp_event_deal.c
+END
+rcsp_protocol_deal.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/common/rcsp/rcsp_protocol_deal.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/include/cpu/ac690x/ui/lcd
+END
+lcd_drv_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/include/cpu/ac690x/ui/lcd/lcd_drv_interface.h
+END
+lcd_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/include/cpu/ac690x/ui/lcd/lcd_spi.h
+END
+lcd128X64.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/include/cpu/ac690x/ui/lcd/lcd128X64.h
+END
+lcd_disp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/include/cpu/ac690x/ui/lcd/lcd_disp.h
+END
+lcd_ui_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/include/cpu/ac690x/ui/lcd/lcd_ui_menu.h
+END
+lcd_drv_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/include/cpu/ac690x/ui/lcd/lcd_drv_api.h
+END

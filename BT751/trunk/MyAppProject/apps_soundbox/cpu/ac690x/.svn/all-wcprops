@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/cpu/ac690x
+END
+update.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/cpu/ac690x/update.c
+END
+version.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/cpu/ac690x/version.S
+END
+sys_detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/cpu/ac690x/sys_detect.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/cpu/ac690x/clock.c
+END

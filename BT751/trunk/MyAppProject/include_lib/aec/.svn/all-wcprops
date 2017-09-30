@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/aec
+END
+lib_esco_repair.a
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/aec/lib_esco_repair.a
+END
+AnalogAGC.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/aec/AnalogAGC.h
+END
+libSpeech_dection.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/aec/libSpeech_dection.a
+END
+libDAGC.a
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/aec/libDAGC.a
+END
+libBtCalling.a
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/aec/libBtCalling.a
+END
+aec_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/aec/aec_api.h
+END
+lib_esco_sync.a
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/aec/lib_esco_sync.a
+END

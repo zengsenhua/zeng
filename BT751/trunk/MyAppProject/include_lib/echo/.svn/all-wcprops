@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/echo
+END
+howlingsupression_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/echo/howlingsupression_api.h
+END
+lib_audio_reverb_H.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/echo/lib_audio_reverb_H.a
+END
+reverb_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/echo/reverb_api.h
+END
+lib_audio_howlingsupression.a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/echo/lib_audio_howlingsupression.a
+END
+echo_deal.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/include_lib/echo/echo_deal.h
+END

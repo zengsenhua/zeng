@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/usb_device
+END
+pc_ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/usb_device/pc_ui.c
+END
+dev_pc.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/BT751/!svn/ver/8/trunk/MyAppProject/apps_soundbox/usb_device/dev_pc.c
+END
+usb_key.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/usb_device/usb_key.c
+END
+pc_prompt.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/usb_device/pc_prompt.c
+END
+usb_device.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/BT751/!svn/ver/7/trunk/MyAppProject/apps_soundbox/usb_device/usb_device.c
+END
