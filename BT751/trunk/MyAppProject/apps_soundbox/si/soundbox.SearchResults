@@ -1,7 +1,0 @@
----- MSG_CHANGE_WORKMODE Matches (33 in 14 files) ----
-Fm_radio.c (fm):                os_taskq_post_msg(MAIN_TASK_NAME,1,MSG_CHANGE_WORKMODE);
-Main.c (main):        case MSG_CHANGE_WORKMODE:
-Main.c (main):            puts("MSG_CHANGE_WORKMODE\n");
-Music.c (music):				err = os_taskq_post(MAIN_TASK_NAME, 1, MSG_CHANGE_WORKMODE);
-Music.c (music):                /* os_taskq_post(MAIN_TASK_NAME, 1, MSG_CHANGE_WORKMODE); */
-Music.c (music):				if(OS_NO_ERR == os_taskq_post(MAIN_TASK_NAME, 1, MSG_CHANGE_WORKMODE))
